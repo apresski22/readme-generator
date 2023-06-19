@@ -44,6 +44,14 @@ ${data.contributors}
 
 ## Tests Used
 ${data.tests}
+
+## Licenses
+${data.license}
+
+## Questions
+
+The repository for this project can be found at ${data.github}
+For additional questions I can be reached at ${data.email}.
 `;
 }
 
